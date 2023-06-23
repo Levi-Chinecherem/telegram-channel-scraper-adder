@@ -61,7 +61,7 @@ Before using the bot, make sure you have the following:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/Levi-Chinecherem/channel-scraper-adder.git
+git clone https://github.com/Levi-Chinecherem/telegram-channel-scraper-adder.git
 
 2. Install the required Python packages using pip.
 pip install -r requirements.txt
