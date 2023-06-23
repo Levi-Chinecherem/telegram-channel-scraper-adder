@@ -83,7 +83,7 @@ python adder_channel.py
 3. Follow the prompts to select the CSV files and target channel(s) based on the provided options.
 
 4. The script will start adding members to the target channel(s) based on the selected mode (username or ID). It will handle errors such as flood errors and user privacy restrictions.
-
+```
 ## Contributing
 Contributions are welcome! If you find any issues or want to add new features, please submit an issue or a pull request.
 
